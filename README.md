@@ -20,35 +20,35 @@
   
 ### Tecnologies and tools
   
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
-<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-<img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
-<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-<img alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-<img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank">
-<img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank">
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-<img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" target="_blank">
-<img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
-<img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" target="_blank">
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
-<img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
-<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
-<img alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank">
-<img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank">
-<img alt="styled_components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank">
-<img alt="figma" src="https://img.shields.io/badge/Figma-4f5664?style=for-the-badge&logo=figma" target="_blank">
-<img alt="adobe_xd" src="https://img.shields.io/badge/Adobe_XD-4f5664?style=for-the-badge&logo=adobexd" target="_blank">
-<img alt="photoshop" src="https://img.shields.io/badge/Photoshop-4f5664?style=for-the-badge&logo=adobephotoshop" target="_blank">
-<img alt="illustrator" src="https://img.shields.io/badge/Illustrator-4f5664?style=for-the-badge&logo=adobeillustrator" target="_blank">
-<img alt="material_ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" target="_blank">
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
-<img alt="gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" target="_blank">
-<img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank">
-<img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank">
-<img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank">
+<a href="https://js.org/" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
+<a href="https://www.python.org/" target="_blank"><img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+<a href="https://nodejs.org/en/" target="_blank"><img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
+<a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+<a href="https://reactnative.dev/" target="_blank"><img alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+<a href="https://aws.amazon.com/pt/" target="_blank"><img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+<a href="https://cloud.google.com/?hl=en" target="_blank"><img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
+<a href="https://dev.w3.org/html5/spec-LC/" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank"><img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" target="_blank"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"></a>
+<a href="https://expressjs.com/" target="_blank"><img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" target="_blank"></a>
+<a href="https://www.mysql.com/" target="_blank"><img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
+<a href="https://www.mongodb.com/home" target="_blank"><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank"></a>
+<a href="https://redux.js.org/" target="_blank"><img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank"></a>
+<a href="https://styled-components.com/" target="_blank"><img alt="styled_components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"></a>
+<a href="https://www.figma.com/" target="_blank"><img alt="figma" src="https://img.shields.io/badge/Figma-4f5664?style=for-the-badge&logo=figma" target="_blank"></a>
+<a href="https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html" target="_blank"><img alt="adobe_xd" src="https://img.shields.io/badge/Adobe_XD-4f5664?style=for-the-badge&logo=adobexd" target="_blank"></a>
+<a href="https://www.adobe.com/br/products/photoshop/landpa.html" target="_blank"><img alt="photoshop" src="https://img.shields.io/badge/Photoshop-4f5664?style=for-the-badge&logo=adobephotoshop" target="_blank"></a>
+<a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img alt="illustrator" src="https://img.shields.io/badge/Illustrator-4f5664?style=for-the-badge&logo=adobeillustrator" target="_blank"></a>
+<a href="https://mui.com/" target="_blank"><img alt="material_ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" target="_blank"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
+<a href="https://www.gatsbyjs.com/" target="_blank"><img alt="gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" target="_blank"></a>
+<a href="https://www.netlify.com/" target="_blank"><img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
+<a href="https://www.heroku.com/" target="_blank"><img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
+<a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank"><img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
   
 ##
   
